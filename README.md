@@ -7,23 +7,22 @@
 🎓 &nbsp;I'm currently studying IT at ITTS Divini.\
 🌱 &nbsp;Right now i'm learning Angular!.\
 ✍️ &nbsp;In my free time, I play Bass Guitar and play Videogames.\
-✉️ &nbsp;You can contanct me at lucozzi.niccolo@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can contanct me at lucozzi.niccolo@gmail.com! I'll try to respond as soon as I can.
 
 <!--📄 &nbsp;Please have a look at my [Résumé](link) for more details about me. I'm open to feedback and suggestions!-->
 
 ### 🛠 &nbsp;Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,7 +35,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/niccolò-lucozzi-12b0a617a"><img src="https://img.shields.io/badge/-Niccolò%20Lucozzi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lucozzi.niccolo@gmail.com"><img src="https://img.shields.io/badge/-lucozzi.niccolo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/nik_lucoz"><img src="https://img.shields.io/badge/-@nik_lucoz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
