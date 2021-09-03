@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [CovidApp](https://github.com/NikLucoz/CovidApp)
+- 🔭 I’m currently working on [CovidApp](https://github.com/NikLucoz/CovidAdvisor)
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
