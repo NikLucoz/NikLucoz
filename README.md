@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [CovidAdvisor](https://github.com/NikLucoz/CovidAdvisor)
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **React Native and Mobile Development**
 
-- 📫 How to reach me **lucozzi.niccolo@gmail.com**
+- 📫 How to reach me **lucozzi.lavoro@gmail.com**
 
 - ⚡ Fun fact **i play Bass Guitar**
 
