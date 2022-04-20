@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and NodeJS**
 
-- 📫 How to reach me **lucozzi.lavoro@gmail.com**
+- 📫 How to reach me **lucozzilavoro@gmail.com**
 
 - ⚡ Fun fact **i play Bass Guitar**
 
