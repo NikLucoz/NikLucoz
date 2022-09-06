@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CovidAdvisor](https://github.com/NikLucoz/CovidAdvisor)
 
-- 🌱 I’m currently learning **Angular and NodeJS**
+- 🌱 I’m currently learning **React Native and NodeJS**
 
 - 📫 How to reach me **lucozzilavoro@gmail.com**
 
