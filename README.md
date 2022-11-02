@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [CovidAdvisor](https://github.com/NikLucoz/CovidAdvisor)
+- 🔭 I’m currently working on [CovidAdvisor](https://github.com/NikLucoz/Madeleine)
 
 - 🌱 I’m currently learning **React Native and NodeJS**
 
