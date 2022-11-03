@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [Madeleine](https://github.com/NikLucoz/Madeleine)
+- 🔭 I’m currently working on [Midilane](https://github.com/NikLucoz/Midilane)
 
 - 🌱 I’m currently learning **IT** @ **UNICAM**
 
