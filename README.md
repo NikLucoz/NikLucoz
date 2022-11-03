@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Madeleine](https://github.com/NikLucoz/Madeleine)
 
-- 🌱 I’m currently learning **React Native and NodeJS**
+- 🌱 I’m currently learning **IT** @ **UNICAM**
 
 - 📫 How to reach me **lucozzilavoro@gmail.com**
 
