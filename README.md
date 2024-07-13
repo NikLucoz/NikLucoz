@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lucozzilavoro@gmail.com**
 
-- ⚡ Fun fact **i hate math**
+- ⚡ Fun fact **i like jazz music**
 
 <!--📄 &nbsp;Please have a look at my [Résumé](link) for more details about me. I'm open to feedback and suggestions!-->
 
