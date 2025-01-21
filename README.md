@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [Verctor Rally](https://github.com/NikLucoz/Vector-Rally)
+- 🔭 I’m currently working on a [WebRTC implementation for Godot4](https://github.com/NikLucoz/GodotWebRTC)
 
 - 🌱 I’m currently learning **IT** @ <a href="https://www.unicam.it/">**UNICAM**</a>
 
